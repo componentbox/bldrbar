@@ -1,5 +1,5 @@
 # bldrbar
-A component build tool with templates and integrations
+Component build tool with templates and integrations
 
 ### Components <br>
 "An individual software component is a software package, a web service, a web resource, or a module that encapsulates a set of related functions (or data).
